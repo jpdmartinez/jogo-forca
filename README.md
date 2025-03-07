@@ -2,3 +2,5 @@ Atividade desenvolvida para a matéria de Plataformas de Desenvolvimento de Soft
 
 Desenvolvido por:
 João Pedro Duarte Martinez RA:1993686 - ADS 3° B
+
+Github: https://github.com/jpdmartinez/jogo-forca/tree/main
